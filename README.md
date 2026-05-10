@@ -16,8 +16,8 @@
 
 - React.js
 - Node.js
-- Express.js
-- TypeScript
+- Framer
+- WebFlow
 - Cyber Security
 - AWS & Cloud
 
