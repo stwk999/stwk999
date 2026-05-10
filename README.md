@@ -79,8 +79,7 @@
 ## 📫 Connect With Me
 
 - 📧 satwikkale88@gmail.com
-- 💼 LinkedIn: https://linkedin.com
-- 🌐 GitHub: https://github.com/satwikkale
+- 🌐 GitHub: [https://github.com/satwikkale](https://github.com/stwk999)
 
 ---
 
